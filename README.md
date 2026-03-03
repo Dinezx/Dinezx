@@ -124,4 +124,10 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
+# Hi, I'm Dinesh Kumar S
 
+My full profile README is here:
+➡️ https://github.com/Dinezx/Dk_Profile#readme
+
+Or open the source file directly:
+➡️ https://github.com/Dinezx/Dk_Profile/blob/main/README.md
