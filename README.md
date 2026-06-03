@@ -81,7 +81,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,nextjs,tailwind,bootstrap,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,nextjs,tailwind,bootstrap,fastapi,restapi" />
 </td>
 
 
